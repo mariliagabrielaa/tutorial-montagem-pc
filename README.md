@@ -1,18 +1,12 @@
 # tutorial-montagem-pc
 Tutorial de montagem e desmontagem de computadores.
-<style>
-  h2 { color: #1e40af; border-bottom: 3px solid #3b82f6; padding-bottom: 6px; }
-  h3 { color: #2563eb; }
-  blockquote { border-left: 4px solid #3b82f6; background: #eff6ff; padding: 8px 14px; }
-  a { color: #1d4ed8; }
-  img { max-width: 100%; border-radius: 8px; }
-</style>
 
-<div style="background: linear-gradient(135deg, #1e3a8a, #2563eb); color: #ffffff; padding: 32px 20px; border-radius: 12px; text-align: center;">
-  <h1 style="color: #ffffff; margin: 0 0 12px 0; border: none;">🖥️ Tutorial: Desmontagem e Montagem de um Computador Desktop</h1>
-  <p style="color: #dbeafe; margin: 0 0 16px 0;">Documentação da prática de hardware, em formato de tutorial passo a passo, para quem quer aprender como um PC desktop é desmontado e montado novamente.</p>
-  <p style="color: #ffffff; margin: 0;"><strong>Integrantes:</strong> <em>[Marília]</em> e <em>[Ian]</em><br><strong>Curso:</strong> Técnico em Informática</p>
-</div>
+# 🖥️ Tutorial: Desmontagem e Montagem de um Computador Desktop
+
+> Documentação da prática de hardware, em formato de tutorial passo a passo, para quem quer aprender como um PC desktop é desmontado e montado novamente.
+
+**Integrantes:** _Marília_ e _Ian_
+**Curso:** Técnico em Informática
 
 ---
 
