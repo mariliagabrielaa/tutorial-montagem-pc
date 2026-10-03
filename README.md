@@ -332,5 +332,5 @@ A prática mostrou que desmontar e montar um computador exige atenção à ordem
 ---
 
 <div style="background: linear-gradient(135deg, #2563eb, #1e3a8a); color: #ffffff; padding: 20px; border-radius: 12px; text-align: center;">
-  <p style="color: #ffffff; margin: 0;">🖥️ Tutorial produzido como atividade prática do curso Técnico em Informática.</p>
+  <p style="color: #ffffff; margin: 0;">🖥️ Tutorial produzido como atividade prática do curso Técnico em Informática no Instituto Federal da Paraíba (IFPB).</p>
 </div>
