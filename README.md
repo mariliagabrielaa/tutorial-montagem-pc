@@ -6,6 +6,7 @@ Tutorial de montagem e desmontagem de computadores.
 > Documentação da prática de hardware, em formato de tutorial passo a passo, para quem quer aprender como um PC desktop é desmontado e montado novamente.
 
 **Integrantes:** _Marília_ e _Ian_
+
 **Curso:** Técnico em Informática
 
 ---
