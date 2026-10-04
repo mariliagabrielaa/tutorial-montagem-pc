@@ -7,6 +7,9 @@ Tutorial de montagem e desmontagem de computadores.
 
 **Integrantes:** _Marília_ e _Ian_
 **Curso:** Técnico em Informática
+
+---
+
 ![Cristiano Ronaldo montando seu PC (Imagem gerada por IA)](imagens/cr7montagem.png)
 
 ---
