@@ -174,6 +174,7 @@ Levante a alavanca de fixação do soquete e retire o processador na vertical, s
 
 <!-- 📷 FOTO ETAPA 12 -->
 ![Etapa 12 da desmontagem](imagens/desmontagem-12.jpeg)
+![Etapa 12.1 da desmontagem](imagens/desmontagem-12.1.jpeg)
 
 ### Etapa 13: Desafixar a placa-mãe do chassi metálico
 
