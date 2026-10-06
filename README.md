@@ -208,7 +208,7 @@ Verifique se o gabinete está em boas condições e se possui:
 - Conectores para as portas USB
 
 <!-- 📷 FOTO ETAPA 1 -->
-![Etapa 1 da montagem](imagens/montagem-01.jpeg)
+![Etapa 1 da montagem](imagens/WhatsAppImage 2026-10-06 at 01.54.59 (1).jpeg)
 
 ### Etapa 2: Fixar a placa-mãe no chassi metálico
 
