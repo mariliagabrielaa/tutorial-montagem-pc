@@ -215,7 +215,7 @@ Verifique se o gabinete está em boas condições e se possui:
 Posicione a placa-mãe sobre os espaçadores do gabinete e fixe-a com os parafusos.
 
 <!-- 📷 FOTO ETAPA 2 -->
-![Etapa 2 da montagem](imagens/etapa2.jpeg)
+![Etapa 2 da montagem](imagens/etapa2_(2).jpeg)
 
 ### Etapa 3: Instalar os conectores do gabinete na placa-mãe
 
@@ -229,56 +229,58 @@ Conecte os fios do painel frontal (liga/desliga, reset, LEDs, USB e áudio) nos 
 Conecte os conectores dos barramentos externos da placa-mãe.
 
 <!-- 📷 FOTO ETAPA 4 -->
-![Etapa 4 da montagem](imagens/montagem-04.jpeg)
+![Etapa 4 da montagem](imagens/etapa4.jpeg)
 
 ### Etapa 5: Instalar o processador
 
 Levante a alavanca do soquete, encaixe o processador alinhando a marcação do canto e abaixe a alavanca para travar.
 
 <!-- 📷 FOTO ETAPA 5 -->
-![Etapa 5 da montagem](imagens/montagem-05.jpeg)
+![Etapa 5 da montagem](imagens/etapa5_(2).jpeg)
 
 ### Etapa 6: Aplicar a pasta térmica e instalar o dissipador e o cooler
 
-Aplique uma pequena quantidade de pasta térmica sobre o processador, encaixe o dissipador com a ventoinha e conecte o cabo do cooler na placa-mãe.
+Aplique uma pequena quantidade de pasta térmica sobre o processador. 
+
+![Etapa 6 da montagem](imagens/etapa6.jpeg)
+
+Encaixe o dissipador com a ventoinha e conecte o cabo do cooler na placa-mãe. E certifique-se do dissipador jogar o vento para o lado certo que é para fora do computador, basta prestar atenção no indicador do dissipador ou na direção do próprio.
 
 <!-- 📷 FOTO ETAPA 6 -->
-![Etapa 6 da montagem](imagens/montagem-06.jpeg)
+![Etapa 6 da montagem](imagens/dissipador.jpeg)
 
 ### Etapa 7: Instalar a memória RAM
 
-Alinhe o módulo com o entalhe do slot e pressione até as travas laterais se fecharem.
+Alinhe o módulo com o entalhe do slot e pressione até as travas laterais se fecharem, segurando apenas nas pontas como se fosse uma pinça.
 
 <!-- 📷 FOTO ETAPA 7 -->
-![Etapa 7 da montagem](imagens/montagem-07.jpeg)
+![Etapa 7 da montagem](imagens/etapa7.jpeg)
 
 ### Etapa 8: Instalar a placa de vídeo
 
 Encaixe a placa no slot de expansão, pressione até travar e fixe-a na traseira do gabinete com o parafuso.
 
-<!-- 📷 FOTO ETAPA 8 -->
-![Etapa 8 da montagem](imagens/montagem-08.jpeg)
 
 ### Etapa 9: Fixar as unidades de armazenamento secundário
 
 Instale SSDs, HDDs e unidades ópticas nas baias do gabinete e fixe-os com parafusos.
 
 <!-- 📷 FOTO ETAPA 9 -->
-![Etapa 9 da montagem](imagens/montagem-09.jpeg)
+![Etapa 9 da montagem](imagens/etapa9.jpeg)
 
 ### Etapa 10: Instalar a fonte de alimentação
 
 Posicione a fonte no gabinete e fixe-a com os parafusos na traseira.
 
 <!-- 📷 FOTO ETAPA 10 -->
-![Etapa 10 da montagem](imagens/montagem-10.jpeg)
+![Etapa 10 da montagem](imagens/etapa10.jpeg)
 
 ### Etapa 11: Instalar os conectores da fonte de alimentação
 
 Conecte os cabos da fonte na placa-mãe, nas unidades de armazenamento e nas placas que precisarem de energia.
 
 <!-- 📷 FOTO ETAPA 11 -->
-![Etapa 11 da montagem](imagens/montagem-11.jpeg)
+![Etapa 11 da montagem](imagens/etapa11.jpeg)
 
 ### Etapa 12: Instalar os cabos flat
 
@@ -286,20 +288,17 @@ Conecte os cabos flat e de dados entre a placa-mãe e as unidades de armazenamen
 
 <!-- 📷 FOTO ETAPA 12 -->
 ![Etapa 12 da montagem](imagens/montagem-12.jpeg)
+![Etapa 12 da montagem](imagens/montagem-12.1.jpeg)
 
 ### Etapa 13: Instalar os demais periféricos
 
 Instale os demais periféricos internos, caso existam.
 
-<!-- 📷 FOTO ETAPA 13 -->
-![Etapa 13 da montagem](imagens/montagem-13.jpeg)
 
 ### Etapa 14: Instalar mouse, teclado e monitor
 
 Conecte o mouse, o teclado e o monitor de vídeo na parte traseira do gabinete.
 
-<!-- 📷 FOTO ETAPA 14 -->
-![Etapa 14 da montagem](imagens/montagem-14.jpeg)
 
 ### Etapa 15: Conferir tudo
 
@@ -310,15 +309,12 @@ Antes de ligar, confira:
 - Se a tomada tem aterramento
 - Se todos os cabos estão firmes e nenhum parafuso ficou solto dentro do gabinete
 
-<!-- 📷 FOTO ETAPA 15 -->
-![Etapa 15 da montagem](imagens/montagem-15.jpeg)
+
 
 ### Etapa 16: Ligar o PC pela primeira vez
 
 Conecte o cabo de energia, ligue o computador e verifique se ele inicia normalmente.
 
-<!-- 📷 FOTO ETAPA 16 -->
-![Etapa 16 da montagem](imagens/montagem-16.jpeg)
 
 ---
 
