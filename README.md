@@ -236,7 +236,7 @@ Conecte os conectores dos barramentos externos da placa-mãe.
 Levante a alavanca do soquete, encaixe o processador alinhando a marcação do canto e abaixe a alavanca para travar.
 
 <!-- 📷 FOTO ETAPA 5 -->
-![Etapa 5 da montagem](imagens/etapa5_(2).jpeg)
+![Etapa 5 da montagem](imagens/etapa5(2).jpeg)
 
 ### Etapa 6: Aplicar a pasta térmica e instalar o dissipador e o cooler
 
