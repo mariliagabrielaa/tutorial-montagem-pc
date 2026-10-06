@@ -115,7 +115,7 @@ Desconecte da placa-mãe, das unidades de armazenamento e das placas todos os ca
 Solte os parafusos que prendem a fonte na traseira do gabinete e retire-a com cuidado.
 
 <!-- 📷 FOTO ETAPA 4 -->
-![Etapa 4 da desmontagem](imagens/desmontagem-03.jpeg)
+![Etapa 4 da desmontagem](imagens/desmontagem-06.jpeg)
 
 ### Etapa 5: Desinstalar as placas de vídeo e de som off-board
 
@@ -126,8 +126,7 @@ Se houver, solte o parafuso que prende a placa à traseira do gabinete e retire-
 
 Retire qualquer outra placa de expansão (rede, captura etc.) que estiver encaixada na placa-mãe, se houver.
 
-<!-- 📷 FOTO ETAPA 6 -->
-![Etapa 6 da desmontagem](imagens/desmontagem-06.jpeg)
+
 
 ### Etapa 7: Desconectar os conectores do gabinete na placa-mãe
 
