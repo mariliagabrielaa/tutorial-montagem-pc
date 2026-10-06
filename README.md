@@ -138,7 +138,8 @@ Desconecte os fios do painel frontal: botão liga/desliga, reset, LEDs, USB e á
 ### Etapa 8: Desconectar os cabos de dados
 
 Retire os cabos de dados (SATA, flat etc.) que ligam as unidades de armazenamento à placa-mãe.
-
+<!-- 📷 FOTO ETAPA 7 -->
+![Etapa 7 da desmontagem](imagens/desmontagem8.jpeg)
 
 ### Etapa 9: Desafixar as unidades de armazenamento secundário
 
