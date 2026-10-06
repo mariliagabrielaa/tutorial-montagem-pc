@@ -208,21 +208,21 @@ Verifique se o gabinete está em boas condições e se possui:
 - Conectores para as portas USB
 
 <!-- 📷 FOTO ETAPA 1 -->
-![Etapa 1 da montagem](imagens/WhatsAppImage 2026-10-06 at 01.54.59 (1).jpeg)
+![Etapa 1 da montagem](imagens/etapa1.jpeg)
 
 ### Etapa 2: Fixar a placa-mãe no chassi metálico
 
 Posicione a placa-mãe sobre os espaçadores do gabinete e fixe-a com os parafusos.
 
 <!-- 📷 FOTO ETAPA 2 -->
-![Etapa 2 da montagem](imagens/montagem-02.jpeg)
+![Etapa 2 da montagem](imagens/etapa2.jpeg)
 
 ### Etapa 3: Instalar os conectores do gabinete na placa-mãe
 
 Conecte os fios do painel frontal (liga/desliga, reset, LEDs, USB e áudio) nos pinos indicados no manual da placa-mãe.
 
 <!-- 📷 FOTO ETAPA 3 -->
-![Etapa 3 da montagem](imagens/montagem-03.jpeg)
+![Etapa 3 da montagem](imagens/etapa3.jpeg)
 
 ### Etapa 4: Conectar os periféricos on-board
 
