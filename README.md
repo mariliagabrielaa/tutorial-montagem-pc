@@ -33,7 +33,7 @@ Esta página documenta a aula prática de **desmontagem e montagem de um computa
 
 Saber a ordem certa evita danos às peças, perda de parafusos e conexões erradas. O tutorial serve tanto para quem quer fazer manutenção quanto para quem quer montar o próprio computador.
 
-<!-- 📷 FOTO DA INTRODUÇÃO: foto geral do computador e das ferramentas sobre a bancada (sem rostos) -->
+
 ![Visão geral do computador e das ferramentas sobre a bancada](imagens/introducao-01.jpeg)
 
 ---
@@ -56,7 +56,7 @@ Saber a ordem certa evita danos às peças, perda de parafusos e conexões errad
 - **Alicate de bico longo**
 - **Pincel** para limpeza dos componentes
 
-<!-- 📷 FOTO DAS FERRAMENTAS: ferramentas organizadas sobre a bancada -->
+
 ![Ferramentas utilizadas na prática](imagens/ferramentas-01.jpeg)
 
 ---
@@ -100,21 +100,21 @@ Desligue o computador e desconecte todos os cabos e periféricos, como mouse, te
 
 Remova os parafusos que prendem a tampa lateral do gabinete e retire a tampa para acessar as peças internas.
 
-<!-- 📷 FOTO ETAPA 2 -->
+
 ![Etapa 2 da desmontagem](imagens/desmontagem-02.jpeg)
 
 ### Etapa 3: Desconectar os conectores da fonte de alimentação
 
 Desconecte da placa-mãe, das unidades de armazenamento e das placas todos os cabos que vêm da fonte.
 
-<!-- 📷 FOTO ETAPA 3 -->
+
 ![Etapa 3 da desmontagem](imagens/desmontagem-06.jpeg)
 
 ### Etapa 4: Retirar a fonte de alimentação do gabinete
 
 Solte os parafusos que prendem a fonte na traseira do gabinete e retire-a com cuidado.
 
-<!-- 📷 FOTO ETAPA 4 -->
+
 ![Etapa 4 da desmontagem](imagens/desmontagem-03.jpeg)
 
 ### Etapa 5: Desinstalar as placas de vídeo e de som off-board
@@ -132,41 +132,41 @@ Retire qualquer outra placa de expansão (rede, captura etc.) que estiver encaix
 
 Desconecte os fios do painel frontal: botão liga/desliga, reset, LEDs, USB e áudio. _Essa etapa vale para gabinetes ATX e ITX._
 
-<!-- 📷 FOTO ETAPA 7 -->
+
 ![Etapa 7 da desmontagem](imagens/desmontagem-08.jpeg)
 
 ### Etapa 8: Desconectar os cabos de dados
 
 Retire os cabos de dados (SATA, flat etc.) que ligam as unidades de armazenamento à placa-mãe.
-<!-- 📷 FOTO ETAPA 7 -->
-![Etapa 7 da desmontagem](imagens/desmontagem8.jpeg)
+
+![Etapa 8 da desmontagem](imagens/desmontagem8.jpeg)
 
 ### Etapa 9: Desafixar as unidades de armazenamento secundário
 
 Solte os parafusos ou as travas e retire HDDs, SSDs e dispositivos ópticos do gabinete.
 
-<!-- 📷 FOTO ETAPA 9 -->
+
 ![Etapa 9 da desmontagem](imagens/desmontagem-09.jpeg)
 
 ### Etapa 10: Desinstalar a memória RAM
 
 Abra as travas laterais do slot e puxe o módulo de memória para cima, segurando pelas bordas.
 
-<!-- 📷 FOTO ETAPA 10 -->
+
 ![Etapa 10 da desmontagem](imagens/desmontagem-10.jpeg)
 
 ### Etapa 11: Desinstalar o dissipador de calor e a ventoinha do processador
 
 Desconecte o cabo do cooler da placa-mãe, solte as travas ou parafusos e retire o conjunto com cuidado.
 
-<!-- 📷 FOTO ETAPA 11 -->
+
 ![Etapa 11 da desmontagem](imagens/desmontagem-11.jpeg)
 
 ### Etapa 12: Desinstalar o processador
 
 Levante a alavanca de fixação do soquete e retire o processador na vertical, sem tocar nos contatos.
 
-<!-- 📷 FOTO ETAPA 12 -->
+
 ![Etapa 12 da desmontagem](imagens/desmontagem-12.jpeg)
 ![Etapa 12.1 da desmontagem](imagens/desmontagem-12.1.jpeg)
 
@@ -174,14 +174,14 @@ Levante a alavanca de fixação do soquete e retire o processador na vertical, s
 
 Remova os parafusos que prendem a placa-mãe ao gabinete e retire-a com cuidado.
 
-<!-- 📷 FOTO ETAPA 13 -->
+
 ![Etapa 13 da desmontagem](imagens/desmontagem-13.jpeg)
 
 ### Etapa 14: Realizar a limpeza
 
 Com o pincel, remova a poeira do gabinete, do cooler, das peças e dos conectores.
 
-<!-- 📷 FOTO ETAPA 14 -->
+
 ![Etapa 14 da desmontagem](imagens/desmontagem-14.jpeg)
 
 ---
@@ -201,35 +201,35 @@ Verifique se o gabinete está em boas condições e se possui:
 - Conectores para áudio e vídeo, se houver
 - Conectores para as portas USB
 
-<!-- 📷 FOTO ETAPA 1 -->
+
 ![Etapa 1 da montagem](imagens/etapa1.jpeg)
 
 ### Etapa 2: Fixar a placa-mãe no chassi metálico
 
 Posicione a placa-mãe sobre os espaçadores do gabinete e fixe-a com os parafusos.
 
-<!-- 📷 FOTO ETAPA 2 -->
+
 ![Etapa 2 da montagem](imagens/etapa2(2).jpeg)
 
 ### Etapa 3: Instalar os conectores do gabinete na placa-mãe
 
 Conecte os fios do painel frontal (liga/desliga, reset, LEDs, USB e áudio) nos pinos indicados no manual da placa-mãe.
 
-<!-- 📷 FOTO ETAPA 3 -->
+
 ![Etapa 3 da montagem](imagens/etapa3.jpeg)
 
 ### Etapa 4: Conectar os periféricos on-board
 
 Conecte os conectores dos barramentos externos da placa-mãe.
 
-<!-- 📷 FOTO ETAPA 4 -->
+
 ![Etapa 4 da montagem](imagens/etapa4.jpeg)
 
 ### Etapa 5: Instalar o processador
 
 Levante a alavanca do soquete, encaixe o processador alinhando a marcação do canto e abaixe a alavanca para travar.
 
-<!-- 📷 FOTO ETAPA 5 -->
+
 ![Etapa 5 da montagem](imagens/etapa5(2).jpeg)
 
 ### Etapa 6: Aplicar a pasta térmica e instalar o dissipador e o cooler
@@ -240,14 +240,14 @@ Aplique uma pequena quantidade de pasta térmica sobre o processador.
 
 Encaixe o dissipador com a ventoinha e conecte o cabo do cooler na placa-mãe. E certifique-se do dissipador jogar o vento para o lado certo que é para fora do computador, basta prestar atenção no indicador do dissipador ou na direção do próprio.
 
-<!-- 📷 FOTO ETAPA 6 -->
+
 ![Etapa 6 da montagem](imagens/dissipador.jpeg)
 
 ### Etapa 7: Instalar a memória RAM
 
 Alinhe o módulo com o entalhe do slot e pressione até as travas laterais se fecharem, segurando apenas nas pontas como se fosse uma pinça.
 
-<!-- 📷 FOTO ETAPA 7 -->
+
 ![Etapa 7 da montagem](imagens/etapa7.jpeg)
 
 ### Etapa 8: Instalar a placa de vídeo
@@ -259,28 +259,28 @@ Encaixe a placa no slot de expansão, pressione até travar e fixe-a na traseira
 
 Instale SSDs, HDDs e unidades ópticas nas baias do gabinete e fixe-os com parafusos.
 
-<!-- 📷 FOTO ETAPA 9 -->
+
 ![Etapa 9 da montagem](imagens/etapa9.jpeg)
 
 ### Etapa 10: Instalar a fonte de alimentação
 
 Posicione a fonte no gabinete e fixe-a com os parafusos na traseira.
 
-<!-- 📷 FOTO ETAPA 10 -->
+
 ![Etapa 10 da montagem](imagens/etapa10.jpeg)
 
 ### Etapa 11: Instalar os conectores da fonte de alimentação
 
 Conecte os cabos da fonte na placa-mãe, nas unidades de armazenamento e nas placas que precisarem de energia.
 
-<!-- 📷 FOTO ETAPA 11 -->
+
 ![Etapa 11 da montagem](imagens/etapa11.jpeg)
 
 ### Etapa 12: Instalar os cabos flat
 
 Conecte os cabos flat e de dados entre a placa-mãe e as unidades de armazenamento.
 
-<!-- 📷 FOTO ETAPA 12 -->
+
 ![Etapa 12 da montagem](imagens/montagem-12.jpeg)
 ![Etapa 12 da montagem](imagens/montagem-12.1.jpeg)
 
@@ -316,7 +316,7 @@ Conecte o cabo de energia, ligue o computador e verifique se ele inicia normalme
 
 A prática mostrou que desmontar e montar um computador exige atenção à ordem das etapas, cuidado com as peças e organização dos parafusos e cabos. Seguindo a sequência deste tutorial, o processo se torna seguro e mais fácil de repetir.
 
-<!-- 📷 FOTO FINAL: computador montado e funcionando (sem rostos) -->
+
 ![Computador montado e funcionando](imagens/final-01.jpeg)
 
 ---
