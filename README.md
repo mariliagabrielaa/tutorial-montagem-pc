@@ -215,7 +215,7 @@ Verifique se o gabinete está em boas condições e se possui:
 Posicione a placa-mãe sobre os espaçadores do gabinete e fixe-a com os parafusos.
 
 <!-- 📷 FOTO ETAPA 2 -->
-![Etapa 2 da montagem](imagens/etapa2_(2).jpeg)
+![Etapa 2 da montagem](imagens/etapa2(2).jpeg)
 
 ### Etapa 3: Instalar os conectores do gabinete na placa-mãe
 
