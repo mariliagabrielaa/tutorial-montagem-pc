@@ -95,8 +95,6 @@ Saber a ordem certa evita danos às peças, perda de parafusos e conexões errad
 
 Desligue o computador e desconecte todos os cabos e periféricos, como mouse, teclado, monitor e impressora.
 
-<!-- 📷 FOTO ETAPA 1 -->
-![Etapa 1 da desmontagem](imagens/desmontagem-01.jpeg)
 
 ### Etapa 2: Remover a tampa do gabinete
 
@@ -117,14 +115,12 @@ Desconecte da placa-mãe, das unidades de armazenamento e das placas todos os ca
 Solte os parafusos que prendem a fonte na traseira do gabinete e retire-a com cuidado.
 
 <!-- 📷 FOTO ETAPA 4 -->
-![Etapa 4 da desmontagem](imagens/desmontagem-04.jpeg)
+![Etapa 4 da desmontagem](imagens/desmontagem-05.jpeg)
 
 ### Etapa 5: Desinstalar as placas de vídeo e de som off-board
 
 Se houver, solte o parafuso que prende a placa à traseira do gabinete e retire-a puxando com cuidado para cima, soltando a trava do encaixe.
 
-<!-- 📷 FOTO ETAPA 5 -->
-![Etapa 5 da desmontagem](imagens/desmontagem-05.jpeg)
 
 ### Etapa 6: Desinstalar outras placas conectadas à placa-mãe
 
@@ -138,14 +134,12 @@ Retire qualquer outra placa de expansão (rede, captura etc.) que estiver encaix
 Desconecte os fios do painel frontal: botão liga/desliga, reset, LEDs, USB e áudio. _Essa etapa vale para gabinetes ATX e ITX._
 
 <!-- 📷 FOTO ETAPA 7 -->
-![Etapa 7 da desmontagem](imagens/desmontagem-07.jpeg)
+![Etapa 7 da desmontagem](imagens/desmontagem-08.jpeg)
 
 ### Etapa 8: Desconectar os cabos de dados
 
 Retire os cabos de dados (SATA, flat etc.) que ligam as unidades de armazenamento à placa-mãe.
 
-<!-- 📷 FOTO ETAPA 8 -->
-![Etapa 8 da desmontagem](imagens/desmontagem-08.jpeg)
 
 ### Etapa 9: Desafixar as unidades de armazenamento secundário
 
