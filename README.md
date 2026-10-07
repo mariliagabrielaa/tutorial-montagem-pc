@@ -161,13 +161,14 @@ Desconecte o cabo do cooler da placa-mãe, solte as travas ou parafusos e retire
 
 
 ![Etapa 11 da desmontagem](imagens/desmontagem-11.jpeg)
+![Etapa 11.1 da desmontagem](imagens/desmontagem-12.jpeg)
 
 ### Etapa 12: Desinstalar o processador
 
 Levante a alavanca de fixação do soquete e retire o processador na vertical, sem tocar nos contatos.
 
 
-![Etapa 12 da desmontagem](imagens/desmontagem-12.jpeg)
+![Etapa 12 da desmontagem](imagens/desmontagem-25.jpeg)
 ![Etapa 12.1 da desmontagem](imagens/desmontagem-12.1.jpeg)
 
 ### Etapa 13: Desafixar a placa-mãe do chassi metálico
