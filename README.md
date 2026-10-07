@@ -224,7 +224,6 @@ Conecte os fios do painel frontal (liga/desliga, reset, LEDs, USB e áudio) nos 
 Conecte os conectores dos barramentos externos da placa-mãe.
 
 
-![Etapa 4 da montagem](imagens/etapa4.jpeg)
 
 ### Etapa 5: Instalar o processador
 
