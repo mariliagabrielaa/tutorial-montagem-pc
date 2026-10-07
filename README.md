@@ -277,7 +277,7 @@ Conecte os cabos da fonte na placa-mãe, nas unidades de armazenamento e nas pla
 
 ![Etapa 11 da montagem](imagens/etapa11.jpeg)
 
-### Etapa 12: Instalar os cabos flat
+### Etapa 12: Instalar os cabos flat e de dados
 
 Conecte os cabos flat e de dados entre a placa-mãe e as unidades de armazenamento.
 
