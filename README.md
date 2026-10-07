@@ -317,7 +317,7 @@ Conecte o cabo de energia, ligue o computador e verifique se ele inicia normalme
 A prática mostrou que desmontar e montar um computador exige atenção à ordem das etapas, cuidado com as peças e organização dos parafusos e cabos. Seguindo a sequência deste tutorial, o processo se torna seguro e mais fácil de repetir.
 
 
-![Computador montado e funcionando](imagens/final-01.jpeg)
+![Cristiano feliz com sua conquista! (Immagem feita por IA)](imagens/845f30cd-4539-4a29-9032-517aa72817b7.png)
 
 ---
 
